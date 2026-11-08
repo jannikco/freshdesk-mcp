@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "product": "pipmcp",
+  "credential": "PIPMCP_API_KEY",
+  "skills": [
+    {
+      "name": "pipmcp-freshdesk",
+      "description": "Connect AI agents to Freshdesk using one PipMCP API key and actual hosted tool discovery."
+    }
+  ],
+  "files": {
+    "skills/pipmcp-freshdesk/SKILL.md": "333ec36a7f9d65c104a8d6255a1666dd9809ec420fa287ac201d47a5d9de26bf"
+  }
+}
